@@ -1,1 +1,5 @@
 docs/_build
+build
+dist
+django_tagging.egg-info
+*.pyc
